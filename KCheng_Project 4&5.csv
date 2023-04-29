@@ -1,0 +1,11 @@
+age,gender,education,mental_illbeing_cause_1,mental_illbeing_cause_2,mental_illbeing_mechanism_1,mental_illbeing_mechanism_2,favorite_modern_feature_1,favorite_modern_feature_2,favorite_modern_feature_3,mothers_specific,fathers_specific,children_specific
+20,Female,12,Social media,School pressure,Social comparison,Academic workload,Online shopping,Social networking,Digital distraction,Lack of outdoor activities,Work-life balance,Cyberbullying
+19,Male,13,Anxiety,Depression,Genetic predisposition,Environmental factors,Video games,Social networking,Online shopping,Lack of emotional support,Financial burden,Academic pressure
+21,Female,14,Social media,Relationship problems,Fear of missing out,Cyberbullying,Online shopping,Social networking,Digital entertainment,Lack of childcare support,Work-life balance,Academic pressure
+22,Male,15,Work pressure,Lack of sleep,"Long hours, High workload",Online shopping,Social networking,Digital entertainment,Access to healthcare,Lack of emotional support,Financial burden,Screen time
+18,Female,12,Academic pressure,Social media,"High expectations, Social comparison",Online shopping,Social networking,Access to information,Digital communication,Lack of outdoor activities,Parental expectations,Work pressure
+20,Male,13,Depression,Anxiety,Genetic predisposition,Environmental factors,Online shopping,Social networking,Access to information,Lack of emotional support,Financial burden,Screen time
+23,Female,14,Social media,Stress,Social comparison,Academic workload,Access to information,Social networking,Online shopping,Lack of outdoor activities,Lack of support,Work-life balance
+19,Male,15,Academic pressure,Relationship problems,"Fear of failure, Lack of support",Online shopping,Social networking,Digital entertainment,Access to healthcare,Lack of emotional support,Financial burden,Screen time
+18,Female,12,Social media,Academic pressure,"Social comparison, High workload",Online shopping,Social networking,Digital entertainment,Access to information,Lack of outdoor activities,Parental expectations,Work-life balance
+21,Male,13,Anxiety,Depression,Genetic predisposition,Environmental factors,Social networking,Online shopping,Access to information,Lack of emotional support,Financial burden,Screen time
